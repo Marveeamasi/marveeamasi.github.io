@@ -47,7 +47,7 @@ header p {
 }
 
 .btn-primary {
-  background: #007bff;
+  background: linear-gradient(to top left, #2DA0B1, #252D55);
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -58,7 +58,7 @@ header p {
 }
 
 .btn-primary:hover {
-  background: #0056b3;
+  background: #2DA0B1;
   transform: scale(1.05);
 }
 
@@ -74,7 +74,7 @@ header p {
 }
 
 .loading {
-  color: #007bff;
+  color: #2DA0B1;
   font-weight: bold;
 }
 
@@ -94,7 +94,7 @@ footer {
 }
 
 footer a {
-  color: #007bff;
+  color: #2DA0B1;
   text-decoration: none;
 }
 
@@ -117,4 +117,3 @@ footer a:hover {
   to {
     transform: translateY(100vh);
   }
-}
