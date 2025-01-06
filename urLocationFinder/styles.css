@@ -5,8 +5,8 @@
   font-family: 'Arial', sans-serif;
 }
 
-html {
-  background: #0d0d13;
+html{
+  background: linear-gradient(to bottom, #2DA0B1, #252D55, #080808); 
 }
 
 body {
@@ -23,7 +23,7 @@ body {
   position: relative;
   background-position-x: center;
 }
-
+  
 .container {
   background: #ffffffe9;
   color: #333;
