@@ -21,11 +21,11 @@ body {
   background-size: contain;
   overflow: hidden;
   position: relative;
-  background-position: center;
+  background-position-x: center;
 }
 
 .container {
-  background: #ffffffe8;
+  background: #ffffffb7;
   color: #333;
   border-radius: 10px;
   padding: 30px 20px;
